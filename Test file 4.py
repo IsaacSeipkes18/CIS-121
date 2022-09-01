@@ -2,4 +2,4 @@
 # Print out the humans age and estimated height
 age = float(input("How old are you?"))
 height = age**2
-print("If you are",age,"your are probably",height,"tall.")
+print("If you are",age,"you're are probably",height,"cm tall.")
