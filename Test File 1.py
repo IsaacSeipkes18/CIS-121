@@ -8,4 +8,4 @@ months2 = float(12*months)
 months3 = int(12*months)
 months4 = months2 - months3
 days2 = int(31*months4)
-print("If you are",human_age,"years old","you would be",(basic_years2),"years",months3,"months",days2,"days","old.")
+print("If you are",human_age,"years old","you would be",(basic_years2),"years",months3,"months",days2,"days","old in dog years.")
