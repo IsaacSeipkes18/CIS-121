@@ -1,4 +1,2 @@
-number = 1
-while number <= 10 or number == 50:
-    print(number)
-    number = number + 1
+tax = ((150000-(81050+19900)) * .22)
+print(tax)
