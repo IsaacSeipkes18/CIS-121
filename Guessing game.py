@@ -2,6 +2,7 @@
 
 number = int(input("Pick a number 1-5"))
 tries = 2
+while
 if number == 2:
     print("sorry try again")
 if number == 3:
