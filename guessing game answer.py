@@ -8,4 +8,4 @@ while chances < 3 and win != 1:
         print("yay")
         win = 1
     else:
-        chances += 1
+        chances + = 1
